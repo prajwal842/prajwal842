@@ -4,7 +4,7 @@
 I am a beginner in programming and currently working on building my skills.  
 I am very interested in learning how software and websites are made.
 
-Right now, I am learning **HTML** and slowly exploring other web technologies.
+Right now, I am learning HTML & CSS and slowly exploring other web technologies.
 
 ---
 
