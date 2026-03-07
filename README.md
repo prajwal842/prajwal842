@@ -32,6 +32,6 @@ Right now, I am learning HTML & CSS and slowly exploring other web technologies.
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/prajwal842
-- Email me: fullelprajal1925@gamil.com
+- Email me: fullelprajal1925@gmail.com
 
 Thanks for visiting my profile 😊
